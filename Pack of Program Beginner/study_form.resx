@@ -1,0 +1,346 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="Colortimer.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="detectimer.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>128, 17</value>
+  </metadata>
+  <data name="_msg.Text" xml:space="preserve">
+    <value>
+Msg - 문자열을 포함한 알림창을 띄움
+
+&lt;사용법&gt;
+C# -
+Messagebox( hWnd, 문자열, 옵션 )
+	* 옵션 : 알림창의 종류를 바꿀 수 있음
+
+VisualBasic - 
+Msgbox 문자열
+
+JavaScript - 
+import javax.swing.JOptionPane; * 소스창 맨 위에 먼저 라이브러리 등록을 해야 함
+JOptionPane.showConfirmDialog(null, 문자열 );</value>
+  </data>
+  <data name="_mid.Text" xml:space="preserve">
+    <value>
+Mid - 문자열 중 원하는 위치부터 지정한 개수만큼 문자를 가져옴
+
+&lt;사용법&gt;
+C# -
+strncpy( 복사될 변수, 문자열 + 시작 위치, 자를 길이 )
+
+VisualBasic - 
+Mid(문자열, 시작 위치, 자를 길이) 
+ * 자를 길이 생략시 시작 위치에서 끝까지
+
+JavaScript - 
+문자열.substr( 시작 위치, 자를 길이 ) 
+ * 자를 길이 생략시 시작 위치에서 끝까지
+문자열.substring( 시작 위치, 종결 위치 )</value>
+  </data>
+  <data name="_do.Text" xml:space="preserve">
+    <value>
+Do - 가장 기본적인 반복문, 사용 방법이 다양
+
+&lt;사용법&gt;
+C#,Java Script - 
+①
+While (조건문) {
+	문장 1;
+	문장 2;
+	.
+	.
+	.
+}
+* 조건문에 충족하지 않을 때 까지 반복
+
+②
+Do {
+	문장 1;
+	문장 2;
+	.
+	.
+	.
+} While (조건문)
+* while 이후를 쓰지 않으면 무한 반복
+* while 이후를 썼을 때 조건에 충족하면 다시 Do로 돌아감
+
+VisualBasic -
+
+While 조건문
+	문장 1
+	문장 2
+	.
+	.
+	.
+Wend
+* 조건문에 충족하지 않을 때 까지 반복
+
+Do
+	문장 1
+	문장 2
+	.
+	.
+	.
+Loop While (조건문
+* while 이후를 쓰지 않으면 무한 반복
+* while 이후를 썼을 때 조건에 충족하면 다시 Do로 돌아감</value>
+  </data>
+  <data name="_for.Text" xml:space="preserve">
+    <value>
+For - 반복 횟수를 정할수 있어 자주 쓰임
+
+&lt;사용법&gt;
+C#, Java Script - 
+for ( 초기식; 조건식; 증감식; ) {
+	문장 1;
+	문장 2;
+	.
+	.
+	.
+}
+
+VisualBasic -
+for 변수 = 초기값 to 끝값 Step 증감값 * Step 이후 안쓰면 1씩 증가
+	문장 1
+	문장 2
+	.
+	.
+	.
+Next</value>
+  </data>
+  <data name="_sel.Text" xml:space="preserve">
+    <value>
+Switch - 한 변수의 수의 범위에 따라서 여러 조건문이 필요할 때 주로 사용
+
+&lt;사용법&gt;
+C#, Java Script -
+switch ( 변수 ) {
+
+	case 값1 : 문장1; 문장2; ... 문장n; break;
+
+	case 값2 : 문장1; 문장2; ... 문장n; break;
+
+	case 값3 : 문장1; 문장2; ... 문장n; break;
+
+	.
+	.
+	.
+
+	case 값n : 문장1; 문장2; ... 문장n; break;
+}
+
+VisualBasic -
+Select Case 변수
+	case 값1
+		문장1
+		문장2
+		.
+		.
+		.
+	case 값2
+		문장1
+		문장2
+		.
+		.
+		.
+	case 값3
+		문장1
+		문장2
+		.
+		.
+		.
+End Select</value>
+  </data>
+  <data name="_if.Text" xml:space="preserve">
+    <value>
+If - 가장 기초적인 조건문
+
+&lt;사용법&gt;
+C#, Java Script -
+If (조건문 1) {
+	문장 1;
+	문장 2;
+	.
+	.
+	.
+} else if (조건문 2) {
+	문장 3;
+	.
+	.
+	.
+}else if (조건문 3) {
+	문장 4;
+	.
+	.
+	.
+}else {
+	.
+	.
+	.
+}
+
+VisualBasic -
+If 조건문 1 then
+	문장 1
+	문장 2
+	.
+	.
+	.
+elseif 조건문 2 then
+	문장 3
+	.
+	.
+	.
+elseif 조건문 3 then
+	문장 4
+	.
+	.
+	.
+else
+	.
+	.
+	.
+End If</value>
+  </data>
+  <data name="_pri.Text" xml:space="preserve">
+    <value>
+출력 - 문자열을 콘솔창에 띄움
+
+&lt;사용법&gt;
+C# -
+Printf("문자열");
+Printf("서식 문자열", 인수1, 인수2, .... );
+
+VisualBasic - 
+imports system * 소스창 맨 위에 먼저 라이브러리 등록을 해야 함
+Console.WriteLine( "문자열1" )
+Console.WriteLine( "문자열2" )
+.
+.
+.
+Console.ReadLine
+
+JavaScript - 
+System.Out.Printf("문자열");
+System.Out.Printf("서식 문자열", 인수1, 인수2, .... );</value>
+  </data>
+</root>

@@ -1,0 +1,175 @@
+C:\Documents and Settings\a\Local Settings\Application Data\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Documents and Settings\a\Local Settings\Application Data\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\a\Local Settings\Application Data\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Documents and Settings\a\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\a\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\a\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\a\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\a\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\a\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Documents and Settings\a\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Documents and Settings\a\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\이종원\공모\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\이종원\공모\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\이종원\공모\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\이종원\공모\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\이종원\공모\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Main_form.resources
+D:\이종원\공모\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\이종원\공모\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Setting_form.resources
+D:\이종원\공모\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\이종원\공모\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\이종원\공모\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\이종원\공모\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\이종원\공모\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\이종원\공모\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.MediaPlayer.dll
+D:\이종원\공모\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.MediaPlayer.dll
+D:\이종원\공모\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Interop.MediaPlayer.dll
+D:\이종원\공모\WindowsApplication1\WindowsApplication1\obj\x86\Debug\AxInterop.MediaPlayer.dll
+D:\이종원\공모\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\my\Desktop\바탕화면\내꺼\프로그래밍\2014\140217\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\my\Desktop\바탕화면\내꺼\프로그래밍\2014\140217\WindowsApplication1\WindowsApplication1\obj\x86\Debug\AxInterop.MediaPlayer.dll
+C:\Users\my\Desktop\바탕화면\내꺼\프로그래밍\2014\140217\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\my\Desktop\바탕화면\내꺼\프로그래밍\2014\140217\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\my\Desktop\바탕화면\내꺼\프로그래밍\2014\140217\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\my\Desktop\바탕화면\내꺼\프로그래밍\2014\140217\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\my\Desktop\바탕화면\내꺼\프로그래밍\2014\140217\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Main_form.resources
+C:\Users\my\Desktop\바탕화면\내꺼\프로그래밍\2014\140217\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\my\Desktop\바탕화면\내꺼\프로그래밍\2014\140217\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Setting_form.resources
+C:\Users\my\Desktop\바탕화면\내꺼\프로그래밍\2014\140217\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\my\Desktop\바탕화면\내꺼\프로그래밍\2014\140217\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\my\Desktop\바탕화면\내꺼\프로그래밍\2014\140217\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\my\Desktop\바탕화면\내꺼\프로그래밍\2014\140217\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\my\Desktop\바탕화면\내꺼\프로그래밍\2014\140217\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.MediaPlayer.dll
+C:\Users\my\Desktop\바탕화면\내꺼\프로그래밍\2014\140217\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.MediaPlayer.dll
+C:\Users\my\Desktop\바탕화면\내꺼\프로그래밍\2014\140218\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\my\Desktop\바탕화면\내꺼\프로그래밍\2014\140218\WindowsApplication1\WindowsApplication1\obj\x86\Debug\AxInterop.MediaPlayer.dll
+C:\Users\my\Desktop\바탕화면\내꺼\프로그래밍\2014\140218\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\my\Desktop\바탕화면\내꺼\프로그래밍\2014\140218\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\my\Desktop\바탕화면\내꺼\프로그래밍\2014\140218\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\my\Desktop\바탕화면\내꺼\프로그래밍\2014\140218\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\my\Desktop\바탕화면\내꺼\프로그래밍\2014\140218\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\my\Desktop\바탕화면\내꺼\프로그래밍\2014\140218\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\my\Desktop\바탕화면\내꺼\프로그래밍\2014\140218\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\my\Desktop\바탕화면\내꺼\프로그래밍\2014\140218\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.MediaPlayer.dll
+C:\Users\my\Desktop\바탕화면\내꺼\프로그래밍\2014\140218\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.MediaPlayer.dll
+C:\Users\my\Desktop\바탕화면\내꺼\프로그래밍\2014\140218\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Main_form.resources
+C:\Users\my\Desktop\바탕화면\내꺼\프로그래밍\2014\140218\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\my\Desktop\바탕화면\내꺼\프로그래밍\2014\140218\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Setting_form.resources
+C:\Users\my\Desktop\바탕화면\내꺼\프로그래밍\2014\140218\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\my\Desktop\바탕화면\내꺼\프로그래밍\2014\WindowsApplication1\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\my\Desktop\바탕화면\내꺼\프로그래밍\2014\WindowsApplication1\obj\x86\Debug\AxInterop.MediaPlayer.dll
+C:\Users\my\Desktop\바탕화면\내꺼\프로그래밍\2014\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\my\Desktop\바탕화면\내꺼\프로그래밍\2014\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\my\Desktop\바탕화면\내꺼\프로그래밍\2014\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\my\Desktop\바탕화면\내꺼\프로그래밍\2014\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\my\Desktop\바탕화면\내꺼\프로그래밍\2014\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\my\Desktop\바탕화면\내꺼\프로그래밍\2014\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\my\Desktop\바탕화면\내꺼\프로그래밍\2014\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\my\Desktop\바탕화면\내꺼\프로그래밍\2014\WindowsApplication1\bin\Debug\Interop.MediaPlayer.dll
+C:\Users\my\Desktop\바탕화면\내꺼\프로그래밍\2014\WindowsApplication1\bin\Debug\AxInterop.MediaPlayer.dll
+C:\Users\my\Desktop\바탕화면\내꺼\프로그래밍\2014\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Main_form.resources
+C:\Users\my\Desktop\바탕화면\내꺼\프로그래밍\2014\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\my\Desktop\바탕화면\내꺼\프로그래밍\2014\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Setting_form.resources
+C:\Users\my\Desktop\바탕화면\내꺼\프로그래밍\2014\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\이종원\공모\WindowsApplication1\obj\x86\Debug\Interop.MediaPlayer.dll
+D:\이종원\공모\WindowsApplication1\obj\x86\Debug\AxInterop.MediaPlayer.dll
+D:\이종원\공모\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\이종원\공모\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\이종원\공모\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\이종원\공모\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\이종원\공모\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\이종원\공모\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\이종원\공모\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\이종원\공모\WindowsApplication1\bin\Debug\Interop.MediaPlayer.dll
+D:\이종원\공모\WindowsApplication1\bin\Debug\AxInterop.MediaPlayer.dll
+D:\이종원\공모\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\이종원\공모\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Main_form.resources
+D:\이종원\공모\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\이종원\공모\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Setting_form.resources
+D:\이종원\공모\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\이종원\공모\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\이종원\공모\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Code_form.resources
+D:\이종원\공모\새 폴더\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\이종원\공모\새 폴더\obj\x86\Debug\Interop.MediaPlayer.dll
+D:\이종원\공모\새 폴더\obj\x86\Debug\Interop.WMPLib.dll
+D:\이종원\공모\새 폴더\obj\x86\Debug\AxInterop.MediaPlayer.dll
+D:\이종원\공모\새 폴더\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\이종원\공모\새 폴더\obj\x86\Debug\WindowsApplication1.Code_form.resources
+D:\이종원\공모\새 폴더\obj\x86\Debug\WindowsApplication1.Main_form.resources
+D:\이종원\공모\새 폴더\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\이종원\공모\새 폴더\obj\x86\Debug\WindowsApplication1.Setting_form.resources
+D:\이종원\공모\새 폴더\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\이종원\공모\새 폴더\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\이종원\공모\새 폴더\bin\Debug\WindowsApplication1.exe
+D:\이종원\공모\새 폴더\bin\Debug\WindowsApplication1.pdb
+D:\이종원\공모\새 폴더\bin\Debug\WindowsApplication1.xml
+D:\이종원\공모\새 폴더\bin\Debug\Interop.MediaPlayer.dll
+D:\이종원\공모\새 폴더\bin\Debug\AxInterop.MediaPlayer.dll
+D:\이종원\공모\새 폴더\obj\x86\Debug\WindowsApplication1.exe
+D:\이종원\공모\새 폴더\obj\x86\Debug\WindowsApplication1.xml
+D:\이종원\공모\새 폴더\obj\x86\Debug\WindowsApplication1.pdb
+D:\이종원\공모\Windows Application1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\이종원\공모\Windows Application1\obj\x86\Debug\Interop.MediaPlayer.dll
+D:\이종원\공모\Windows Application1\obj\x86\Debug\Interop.WMPLib.dll
+D:\이종원\공모\Windows Application1\obj\x86\Debug\AxInterop.MediaPlayer.dll
+D:\이종원\공모\Windows Application1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\이종원\공모\Windows Application1\obj\x86\Debug\WindowsApplication1.Code_form.resources
+D:\이종원\공모\Windows Application1\obj\x86\Debug\WindowsApplication1.Main_form.resources
+D:\이종원\공모\Windows Application1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\이종원\공모\Windows Application1\obj\x86\Debug\WindowsApplication1.Setting_form.resources
+D:\이종원\공모\Windows Application1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\이종원\공모\Windows Application1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\이종원\공모\Windows Application1\bin\Debug\WindowsApplication1.exe
+D:\이종원\공모\Windows Application1\bin\Debug\WindowsApplication1.pdb
+D:\이종원\공모\Windows Application1\bin\Debug\WindowsApplication1.xml
+D:\이종원\공모\Windows Application1\bin\Debug\Interop.MediaPlayer.dll
+D:\이종원\공모\Windows Application1\bin\Debug\AxInterop.MediaPlayer.dll
+D:\이종원\공모\Windows Application1\obj\x86\Debug\WindowsApplication1.exe
+D:\이종원\공모\Windows Application1\obj\x86\Debug\WindowsApplication1.xml
+D:\이종원\공모\Windows Application1\obj\x86\Debug\WindowsApplication1.pdb
+D:\이종원\공모\EasyNet\obj\x86\Debug\Interop.MediaPlayer.dll
+D:\이종원\공모\EasyNet\obj\x86\Debug\Interop.WMPLib.dll
+D:\이종원\공모\EasyNet\obj\x86\Debug\AxInterop.MediaPlayer.dll
+D:\이종원\공모\EasyNet\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\이종원\공모\EasyNet\bin\Debug\Interop.MediaPlayer.dll
+D:\이종원\공모\EasyNet\bin\Debug\AxInterop.MediaPlayer.dll
+D:\이종원\공모\EasyNet\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\이종원\공모\EasyNet\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\이종원\공모\EasyNet\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\이종원\공모\EasyNet\bin\Debug\Pack of PROGINNER.exe
+D:\이종원\공모\EasyNet\bin\Debug\Pack of PROGINNER.pdb
+D:\이종원\공모\EasyNet\bin\Debug\Pack of PROGINNER.xml
+D:\이종원\공모\EasyNet\obj\x86\Debug\PackofProginner.ask_form.resources
+D:\이종원\공모\EasyNet\obj\x86\Debug\PackofProginner.Code_form.resources
+D:\이종원\공모\EasyNet\obj\x86\Debug\PackofProginner.Main_form.resources
+D:\이종원\공모\EasyNet\obj\x86\Debug\PackofProginner.Resources.resources
+D:\이종원\공모\EasyNet\obj\x86\Debug\PackofProginner.Setting_form.resources
+D:\이종원\공모\EasyNet\obj\x86\Debug\PackofProginner.Start_form.resources
+D:\이종원\공모\EasyNet\obj\x86\Debug\PackofProginner.tutorial_form.resources
+D:\이종원\공모\EasyNet\obj\x86\Debug\Pack of PROGINNER.exe
+D:\이종원\공모\EasyNet\obj\x86\Debug\Pack of PROGINNER.xml
+D:\이종원\공모\EasyNet\obj\x86\Debug\Pack of PROGINNER.pdb
+D:\이종원\공모\EasyNet\obj\x86\Debug\PackofProginner.Algorithm_form.resources
+D:\이종원\공모\EasyNet\obj\x86\Debug\PackofProginner.study_form.resources
+D:\program\Pack of Program Beginner\Pack of Program Beginner\obj\x86\Debug\Interop.MediaPlayer.dll
+D:\program\Pack of Program Beginner\Pack of Program Beginner\obj\x86\Debug\Interop.WMPLib.dll
+D:\program\Pack of Program Beginner\Pack of Program Beginner\obj\x86\Debug\AxInterop.MediaPlayer.dll
+D:\program\Pack of Program Beginner\Pack of Program Beginner\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\program\Pack of Program Beginner\Pack of Program Beginner\obj\x86\Debug\Pack of PROGINNER.exe
+D:\program\Pack of Program Beginner\Pack of Program Beginner\obj\x86\Debug\Pack of PROGINNER.xml
+D:\program\Pack of Program Beginner\Pack of Program Beginner\obj\x86\Debug\Pack of PROGINNER.pdb
+D:\program\Pack of Program Beginner\Pack of Program Beginner\bin\Debug\Pack of PROGINNER.exe
+D:\program\Pack of Program Beginner\Pack of Program Beginner\bin\Debug\Pack of PROGINNER.pdb
+D:\program\Pack of Program Beginner\Pack of Program Beginner\bin\Debug\Pack of PROGINNER.xml
+D:\program\Pack of Program Beginner\Pack of Program Beginner\bin\Debug\Interop.MediaPlayer.dll
+D:\program\Pack of Program Beginner\Pack of Program Beginner\bin\Debug\AxInterop.MediaPlayer.dll
+D:\program\Pack of Program Beginner\Pack of Program Beginner\obj\x86\Debug\PackofProginner.Algorithm_form.resources
+D:\program\Pack of Program Beginner\Pack of Program Beginner\obj\x86\Debug\PackofProginner.ask_form.resources
+D:\program\Pack of Program Beginner\Pack of Program Beginner\obj\x86\Debug\PackofProginner.Code_form.resources
+D:\program\Pack of Program Beginner\Pack of Program Beginner\obj\x86\Debug\PackofProginner.Main_form.resources
+D:\program\Pack of Program Beginner\Pack of Program Beginner\obj\x86\Debug\PackofProginner.Resources.resources
+D:\program\Pack of Program Beginner\Pack of Program Beginner\obj\x86\Debug\PackofProginner.Setting_form.resources
+D:\program\Pack of Program Beginner\Pack of Program Beginner\obj\x86\Debug\PackofProginner.Start_form.resources
+D:\program\Pack of Program Beginner\Pack of Program Beginner\obj\x86\Debug\PackofProginner.study_form.resources
+D:\program\Pack of Program Beginner\Pack of Program Beginner\obj\x86\Debug\PackofProginner.tutorial_form.resources
+D:\program\Pack of Program Beginner\Pack of Program Beginner\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
