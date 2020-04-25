@@ -18,7 +18,7 @@
 ---
 ### 4. Logo
 
-![Logo](/Pack of Program Beginner/My Project/img/bg_title.png)
+![Logo](https://github.com/jongwonleee/pack_of_programming_beginner/blob/master/Pack%20of%20Program%20Beginner/My%20Project/img/bg_title.png)
 
 ---------------------------
 ### 5. Demo
@@ -26,7 +26,7 @@
 
 ---
 ### 6. How to use
-- [Download](/사용자 매뉴얼.hwp)
+- [Download](https://github.com/jongwonleee/pack_of_programming_beginner/blob/master/%EC%82%AC%EC%9A%A9%EC%9E%90%20%EB%A7%A4%EB%89%B4%EC%96%BC.hwp)
 ---------------------------
 ### 6. Contacts
 - distributed by Jongwon Lee  
