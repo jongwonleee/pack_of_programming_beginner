@@ -26,7 +26,7 @@
 
 ---
 ### 6. How to use
-- [Download](https://github.com/jongwonleee/pack_of_programming_beginner/blob/master/%EC%82%AC%EC%9A%A9%EC%9E%90%20%EB%A7%A4%EB%89%B4%EC%96%BC.hwp)
+- User Manual in Korean: [Download](https://github.com/jongwonleee/pack_of_programming_beginner/blob/master/%EC%82%AC%EC%9A%A9%EC%9E%90%20%EB%A7%A4%EB%89%B4%EC%96%BC.hwp)
 ---------------------------
 ### 6. Contacts
 - distributed by Jongwon Lee  
